@@ -32,3 +32,4 @@ To incentivize NFT holders by allowing them to earn passive rewards through a se
 ## Contract Details
 CCAGIW2UA34JZX6JIEF5TNANYKS3CJF2MO2WKVEJZAW2G4HQN3ZDPYKZ
 ![alt text](image.png)
+.
